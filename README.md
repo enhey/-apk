@@ -1,4 +1,4 @@
-# **jingriqingjial**
+# **jingriqingjia**
 
 ##### 今日校园模拟请假软件(带核验码)
 
@@ -45,7 +45,7 @@
 
 ##  平台使用
 
-支持安卓。安装位置 \qingjiazhushou\unpackage\release\apk\__UNI__EC0148A__20210914102205.apk
+支持安卓。安装包apk位置 \qingjiazhushou\unpackage\release\apk\__UNI__EC0148A__20210914102205.apk
 
 
 
